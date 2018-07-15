@@ -42,3 +42,22 @@ modules/jdbc-pool/bin
 modules/jdbc-pool/includes
 webapps/docs/jdbc-pool.xml
 out
+target/
+!.mvn/wrapper/maven-wrapper.jar
+*.mvn
+*.cmd
+*/mvnw
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
